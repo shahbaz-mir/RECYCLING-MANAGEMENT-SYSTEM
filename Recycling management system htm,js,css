@@ -1,0 +1,6 @@
+This project is a Recycling Management System with user management features. It includes:
+
+HTML Templates: Professionally designed pages for login and registration, structured with semantic HTML for clarity.
+CSS and Bootstrap Styling: Templates styled for responsiveness and a clean, modern look using custom CSS and Bootstrap components.
+JavaScript Interactivity: Form validation ensures required fields are filled and proper formats (e.g., email) are used, with live feedback for errors. The code is modular and easy to extend.
+This system provides a foundation for building a user-friendly recycling management web application.
